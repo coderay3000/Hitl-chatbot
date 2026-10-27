@@ -2,12 +2,9 @@
 
 .env
 .env.*
-
-# Allow example environment configuration
-
 !.env.example
 
-# Virtual environment
+# Python virtual environments
 
 venv/
 .venv/
